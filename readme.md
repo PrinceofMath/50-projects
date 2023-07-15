@@ -7,3 +7,4 @@
 | Rotating navigation | [Link](https://princeofmath.github.io/50-projects/rotating-navigation/) |
 | Hidden search | [Link](https://princeofmath.github.io/50-projects/hidden-search/) |
 | Blurry loading | [Link](https://princeofmath.github.io/50-projects/blurry-loading/) |
+| Scroll animation | [Link](https://princeofmath.github.io/50-projects/scroll-animation/) |
