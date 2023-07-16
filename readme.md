@@ -10,3 +10,4 @@
 | Scroll animation    | [Link](https://princeofmath.github.io/50-projects/scroll-animation/)    |
 | Split landing page  | [Link](https://princeofmath.github.io/50-projects/split-landing-page/)  |
 | Form wave animation | [Link](https://princeofmath.github.io/50-projects/form-wave-animation/) |
+| Sound board         | [Link](https://princeofmath.github.io/50-projects/sound-board/)         |
