@@ -14,3 +14,4 @@
 | Dad jokes           | [Link](https://princeofmath.github.io/50-projects/dad-jokes/)           |
 | Event KeyCodes      | [Link](https://princeofmath.github.io/50-projects/event-keycodes/)      |
 | FAQ                 | [Link](https://princeofmath.github.io/50-projects/faq/)                 |
+| Choice picker       | [Link](https://princeofmath.github.io/50-projects/choice-picker/)       |
